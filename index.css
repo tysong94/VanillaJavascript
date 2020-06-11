@@ -7,6 +7,9 @@ h1 {
   transition: color 0.5s ease-in-out;
 }
 
+.btn { 
+  cursor: pointer;
+}
 .clicked {
   color: blueviolet;
 }
