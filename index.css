@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: bisque;
+  color: darkblue;
   transition: color 0.5s ease-in-out;
 }
 
