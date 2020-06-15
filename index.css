@@ -2,11 +2,6 @@ body {
   background-color: #ecf0f1;
 }
 
-h1 {
-  color: darkblue;
-  transition: color 0.5s ease-in-out;
-}
-
 .btn { 
   cursor: pointer;
 }
