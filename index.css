@@ -10,6 +10,16 @@ h1 {
 .btn { 
   cursor: pointer;
 }
+
 .clicked {
   color: blueviolet;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
 }
